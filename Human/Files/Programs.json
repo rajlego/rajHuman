@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Morning Routine",
+        "goal": "Rivers",
+        "code": "Twentynine Palms\ncat\nyouknow what ",
+        "time": null,
+        "nevr": ""
+    },
+    {
+        "id": 2,
+        "name": "Night Routine",
+        "goal": "Rivers",
+        "code": "Twentynine Palms",
+        "time": 21,
+    },
+    {
+        "id": 3,
+        "name": "Morning Meal",
+        "goal": "Rivers",
+        "code": "Twentynine Palms",
+        "time": 9,
+    },
+    {
+        "id": 4,
+        "name": "Post Nap",
+        "goal": "Rivders",
+        "code": "Twendsatynine Palms",
+        "time": 15,
+    },
+    {
+        "id": 18,
+        "name": "Fun",
+        "goal": "Rivders",
+        "code": "Twendsatynine Palms",
+        "time": 15,
+    }
+]

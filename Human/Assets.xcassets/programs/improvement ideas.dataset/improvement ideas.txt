@@ -1,0 +1,2 @@
+figure out how to iterate on task time lengths: figure out more robust alternative to plan for better data handling? or use plan all day? exercise how before? gresham's law? write
+idea: rate value of each line?
